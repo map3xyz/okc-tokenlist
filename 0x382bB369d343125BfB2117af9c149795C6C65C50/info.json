@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Tether (USDT) is a cryptocurrency mirroring the value of the U.S. dollar."
+  },
+  "id": "3bdefc59-2333-4c53-bf13-d670fab50858",
+  "links": {
+    "explorer": "https://www.oklink.com/en/okc/address/0x382bB369d343125BfB2117af9c149795C6C65C50",
+    "website": "https://tether.to/en/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/okc/assets/0x382bB369d343125BfB2117af9c149795C6C65C50/logo.png"
+  },
+  "name": "Tether USD",
+  "networkCode": "okc",
+  "spam": false,
+  "symbol": "USDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
