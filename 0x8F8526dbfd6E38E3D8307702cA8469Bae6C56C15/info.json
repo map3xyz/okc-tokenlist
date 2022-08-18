@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "WOKT is wrapped OKT."
+  },
+  "id": "27a02cb5-9322-416f-8afa-ad637585e0cb",
+  "links": {
+    "explorer": "https://www.oklink.com/en/okc/address/0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
+    "website": "https://www.okx.com/okc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/okc-tokenlist/master/0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15/logo.png"
+  },
+  "name": "Wrapped OKT",
+  "networkCode": "okc",
+  "spam": false,
+  "symbol": "WOKT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
