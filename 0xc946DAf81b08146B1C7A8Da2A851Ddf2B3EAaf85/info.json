@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "USDC is a token issued by OKX Chain, where the price is pegged to USDC at a rate of 1 USDC (KIP20) = 1 USDC."
+  },
+  "id": "e5ddfdb0-0f1d-4578-87d2-1818fbdff6b6",
+  "links": {
+    "explorer": "https://www.oklink.com/en/okc/address/0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85",
+    "website": "https://www.okx.com/okc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/okc/assets/okc-tokenlist/0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85/logo.png"
+  },
+  "name": "USD Coin",
+  "networkCode": "okc",
+  "spam": false,
+  "symbol": "USDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
