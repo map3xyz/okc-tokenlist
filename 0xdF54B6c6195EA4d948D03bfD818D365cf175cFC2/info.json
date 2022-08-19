@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Utility token for OKX Ecosystem."
+  },
+  "id": "dbffe628-e11e-4122-b8da-2e9e5d016260",
+  "links": {
+    "explorer": "https://www.oklink.com/en/okc/address/0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2",
+    "website": "https://www.okx.com/okb"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/okc/assets/okc-tokenlist/0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2/logo.png"
+  },
+  "name": "OKB Token",
+  "networkCode": "okc",
+  "spam": false,
+  "symbol": "OKB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
